@@ -1,4 +1,4 @@
-CSC5210_Project4
+CSC5210-Project4
 =========
 
 This project implements a version of the card game "War." Models will be created and textured to look like playing cards. The scene will be lit by ambient and point lighting.
@@ -6,7 +6,7 @@ This project uses OpenGL, SFML, glew, and glm
 
 ----
 
-Project source can be downloaded from https://github.com/MC-CSC5210/CSC5210_Project4.git
+Project source can be downloaded from https://github.com/langillep/CSC5210-Project4.git
 
 ----
 
